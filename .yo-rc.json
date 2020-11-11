@@ -1,0 +1,43 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.gypsyapp.jhipster",
+      "nativeLanguage": "en"
+    },
+    "jhipsterVersion": "6.10.4",
+    "applicationType": "monolith",
+    "baseName": "gypsy",
+    "packageName": "com.gypsyapp.jhipster",
+    "packageFolder": "com/gypsyapp/jhipster",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": false,
+    "websocket": false,
+    "databaseType": "mongodb",
+    "devDatabaseType": "mongodb",
+    "prodDatabaseType": "mongodb",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": "eureka",
+    "buildTool": "gradle",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "NGZkNTg1YmIxMzEzZTNiZDY0ODEwMjllNDNjYTY4ZTJmZjllZWZhM2FhZjM2MGE2NGU4OGM5OGU1ZDNiZGZiZGJkNjYzYTgwNTAyYWRlN2M1MjczMzI5ZGI4N2NmZThlNDZlMTJlZGFjMTE1MzMyOWEzZmQxNjBlNTc4YzcwNDI=",
+    "embeddableLaunchScript": false,
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "clientFramework": "angularX",
+    "clientTheme": "darkly",
+    "clientThemeVariant": "light",
+    "creationTimestamp": 1605080629460,
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": true,
+    "nativeLanguage": "en",
+    "languages": ["en"],
+    "blueprints": []
+  }
+}
